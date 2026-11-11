@@ -1,12 +1,13 @@
 ZIMUPDATE 1
-build=44
-version=2.0.29
-title=Updates for apps and system
-note=New Updates tab in Software
-note=Apps that changed are listed by name
+build=45
+version=2.0.27
+title=ZimOS 2.0.27 - File Explorer update
+note=File Explorer: Left / Right arrow keys go up and open folders
+note=File Explorer: the selected file is shown in the toolbar
+note=New Updates tab in Software lists apps by name
 note=Your files and accounts are never touched
-app=Software|2.0.29|New Updates tab
-app=Settings|2.0.29|Update tab shows more
-app=Registry Editor|1.1|Help panel and live values
+app=File Explorer|2.0.27|Arrow keys + selected file shown
+app=Software|2.0.27|Updates tab
+app=Settings|2.0.27|Update tab shows more
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
