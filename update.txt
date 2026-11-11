@@ -1,9 +1,12 @@
 ZIMUPDATE 1
 build=44
-version=2.0.28
-title=Update system, Registry Editor and a new look
-note=New Update tab in Settings
-note=Registry Editor values change ZimOS live
-note=Darker lavender look
-url64=https://github.com/jakobwarburton12/zimos-updates/releases/latest/download/ZimOS-2.iso
-url32=https://github.com/jakobwarburton12/zimos-updates/releases/latest/download/ZimOS-2-32bit.iso
+version=2.0.29
+title=Updates for apps and system
+note=New Updates tab in Software
+note=Apps that changed are listed by name
+note=Your files and accounts are never touched
+app=Software|2.0.29|New Updates tab
+app=Settings|2.0.29|Update tab shows more
+app=Registry Editor|1.1|Help panel and live values
+url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
+url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
