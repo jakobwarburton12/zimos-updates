@@ -1,14 +1,16 @@
 ZIMUPDATE 1
-build=46
+build=47
 version=2.0.27 ABOUT
 title=ZimOS 2.0.27 ABOUT
 note=About app has tabs: Overview, Display, PC, Operating System, Storage
 note=Settings: 3 new pages (Date & Time, Processor & Memory, Software)
 note=The Settings side menu always scrolls and never squashes
-note=8 more wallpapers (32 in all) and File Explorer arrow keys
+note=Install now applies the update settings straight away (wallpaper Galaxy)
+note=About > Operating System shows the installed update
 app=About|2.0.27 ABOUT|Tabs for Display, PC, OS, Storage
 app=Settings|2.0.27 ABOUT|3 new pages, always scrolls, 32 wallpapers
 app=File Explorer|2.0.27 ABOUT|Arrow keys + selected file shown
 app=Software|2.0.27 ABOUT|Updates tab
+reg=HKEY_CURRENT_USER\Software\ZimOS\Desktop|WallpaperStyle|24
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
