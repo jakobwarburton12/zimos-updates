@@ -1,13 +1,14 @@
 ZIMUPDATE 1
-build=45
-version=2.0.27
-title=ZimOS 2.0.27 - File Explorer update
-note=File Explorer: Left / Right arrow keys go up and open folders
-note=File Explorer: the selected file is shown in the toolbar
-note=New Updates tab in Software lists apps by name
-note=Your files and accounts are never touched
-app=File Explorer|2.0.27|Arrow keys + selected file shown
-app=Software|2.0.27|Updates tab
-app=Settings|2.0.27|Update tab shows more
+build=46
+version=2.0.27 ABOUT
+title=ZimOS 2.0.27 ABOUT
+note=About app has tabs: Overview, Display, PC, Operating System, Storage
+note=Settings: 3 new pages (Date & Time, Processor & Memory, Software)
+note=The Settings side menu always scrolls and never squashes
+note=8 more wallpapers (32 in all) and File Explorer arrow keys
+app=About|2.0.27 ABOUT|Tabs for Display, PC, OS, Storage
+app=Settings|2.0.27 ABOUT|3 new pages, always scrolls, 32 wallpapers
+app=File Explorer|2.0.27 ABOUT|Arrow keys + selected file shown
+app=Software|2.0.27 ABOUT|Updates tab
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
