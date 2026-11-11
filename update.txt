@@ -1,0 +1,9 @@
+ZIMUPDATE 1
+build=43
+version=2.0.28
+title=Update system, Registry Editor and a new look
+note=New Update tab in Settings
+note=Registry Editor values change ZimOS live
+note=Darker lavender look
+url64=https://github.com/jakobwarburton12/zimos-updates/releases/latest/download/ZimOS-2.iso
+url32=https://github.com/jakobwarburton12/zimos-updates/releases/latest/download/ZimOS-2-32bit.iso
