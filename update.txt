@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=43
+build=44
 version=2.0.28
 title=Update system, Registry Editor and a new look
 note=New Update tab in Settings
