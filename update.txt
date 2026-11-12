@@ -1,10 +1,10 @@
 ZIMUPDATE 1
-build=48
+build=49
 version=2.0.27 ABOUT
 title=ZimOS 2.0.27 ABOUT - new apps and commands
 note=3 new apps in Software: Habit Tracker, Focus Timer, Wish List
 note=New Terminal commands: cpu, hostname, level, wallpapers, update
-note=Install update now restarts ZimOS so it applies properly
+note=Install update now downloads the new system and restarts into it
 note=Settings > Software and Update show exactly what you are on
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
@@ -14,3 +14,5 @@ app=Settings|2.0.27 ABOUT|You are on, 3 new pages
 reg=HKEY_CURRENT_USER\Software\ZimOS\Desktop|WallpaperStyle|31
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
+kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
+kernel32=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2-32bit.kernel
