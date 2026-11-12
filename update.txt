@@ -1,11 +1,11 @@
 ZIMUPDATE 1
-build=49
+build=50
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - new apps and commands
-note=3 new apps in Software: Habit Tracker, Focus Timer, Wish List
-note=New Terminal commands: cpu, hostname, level, wallpapers, update
-note=Install update now downloads the new system and restarts into it
-note=Settings > Software and Update show exactly what you are on
+title=ZimOS 2.0.27 ABOUT - pin any app, no more BIOS
+note=Any app can be pinned to the dock (right-click it in the Apps menu)
+note=The ZimOS BIOS is removed - Boot menu (F12) and Tweaker stay
+note=Start screen: the Z with ZimOS under it, then the spinner
+note=GRUB shows the Z + ZimOS picture (needs the new disc)
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
 app=Wish List|new|New app in Software
