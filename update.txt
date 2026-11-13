@@ -1,16 +1,16 @@
 ZIMUPDATE 1
 build=53
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - dock remembers every app, scrollbar, smooth scrolling
-note=Every pinned app keeps its place on the dock after a restart
-note=Settings side menu has a draggable scrollbar; the version text is gone
-note=Smoother mouse-wheel scrolling in every app
-note=Updates can now be installed without a new disc (kernel update)
+title=ZimOS 2.0.27 ABOUT - ZimOS Control, glossy icons, dock and top bar
+note=New system app: ZimOS Control (Home, Startup, Dock, Top bar) - it replaces the BIOS
+note=Glossy icons for every app
+note=Dock settings: position, alignment, size, glass, auto-hide, reset order
+note=Top bar: choose date, user name, tray icons and move the clock
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
 app=Wish List|new|New app in Software
 app=Terminal|2.0.27 ABOUT|cpu, level, wallpapers, update
-app=Settings|2.0.27 ABOUT|You are on, 3 new pages
+app=ZimOS Control|new|New system app, pinned to the dock
 reg=HKEY_CURRENT_USER\Software\ZimOS\Desktop|WallpaperStyle|31
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
