@@ -1,11 +1,12 @@
 ZIMUPDATE 1
-build=50
+build=51
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - pin any app, no more BIOS
-note=Any app can be pinned to the dock (right-click it in the Apps menu)
-note=The ZimOS BIOS is removed - Boot menu (F12) and Tweaker stay
-note=Start screen: the Z with ZimOS under it, then the spinner
-note=GRUB shows the Z + ZimOS picture (needs the new disc)
+title=ZimOS 2.0.27 ABOUT - real code updates, admin Terminal
+note=Updates now replace the kernel (real code) and read it back to check it
+note=Update files can run commands too (cmd= lines, as administrator)
+note=Terminal as administrator: no password, no zi needed
+note=New command: boot-startup-on / boot-startup-off (admin Terminal at boot)
+note=Boot shows only the Z
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
 app=Wish List|new|New app in Software
