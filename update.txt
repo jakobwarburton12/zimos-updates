@@ -1,17 +1,13 @@
 ZIMUPDATE 1
-build=54
+build=55
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - flat icons, top bar on side docks, more recovery
-note=Terminal as administrator asks for the password again
-note=New flat icons for every app
-note=The top bar now shows when the dock is on the left or right
-note=Recovery and Boot menu: startup options, console mode, reset dock, restart
-app=Habit Tracker|new|New app in Software
-app=Focus Timer|new|New app in Software
-app=Wish List|new|New app in Software
-app=Terminal|2.0.27 ABOUT|cpu, level, wallpapers, update
-app=ZimOS Control|new|New system app, pinned to the dock
-reg=HKEY_CURRENT_USER\Software\ZimOS\Desktop|WallpaperStyle|31
+title=ZimOS 2.0.27 ABOUT - no more freezing on updates, automatic update check, new Browser
+note=Checking for updates and downloading them no longer freezes ZimOS
+note=ZimOS checks for updates after it starts (and every 30 minutes) and shows a notification
+note=New Browser look: tabs with badges, round buttons, address bar with a lock, loading bar, new start page
+note=ZimOS Control scrolls on small windows and stays inside its window
+app=ZimBrowser|2.0.27 ABOUT|New look and start page
+app=ZimOS Control|2.0.27 ABOUT|Scrolling and drawing fixes
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
