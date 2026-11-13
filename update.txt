@@ -1,12 +1,11 @@
 ZIMUPDATE 1
-build=51
+build=52
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - real code updates, admin Terminal
-note=Updates now replace the kernel (real code) and read it back to check it
-note=Update files can run commands too (cmd= lines, as administrator)
-note=Terminal as administrator: no password, no zi needed
-note=New command: boot-startup-on / boot-startup-off (admin Terminal at boot)
-note=Boot shows only the Z
+title=ZimOS 2.0.27 ABOUT - dock remembers every app, scrollbar, smooth scrolling
+note=Every pinned app keeps its place on the dock after a restart
+note=Settings side menu has a draggable scrollbar; the version text is gone
+note=Smoother mouse-wheel scrolling in every app
+note=Updates can now be installed without a new disc (kernel update)
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
 app=Wish List|new|New app in Software
