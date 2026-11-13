@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=52
+build=53
 version=2.0.27 ABOUT
 title=ZimOS 2.0.27 ABOUT - dock remembers every app, scrollbar, smooth scrolling
 note=Every pinned app keeps its place on the dock after a restart
