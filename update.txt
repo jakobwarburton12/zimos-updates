@@ -1,11 +1,11 @@
 ZIMUPDATE 1
-build=53
+build=54
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - ZimOS Control, glossy icons, dock and top bar
-note=New system app: ZimOS Control (Home, Startup, Dock, Top bar) - it replaces the BIOS
-note=Glossy icons for every app
-note=Dock settings: position, alignment, size, glass, auto-hide, reset order
-note=Top bar: choose date, user name, tray icons and move the clock
+title=ZimOS 2.0.27 ABOUT - flat icons, top bar on side docks, more recovery
+note=Terminal as administrator asks for the password again
+note=New flat icons for every app
+note=The top bar now shows when the dock is on the left or right
+note=Recovery and Boot menu: startup options, console mode, reset dock, restart
 app=Habit Tracker|new|New app in Software
 app=Focus Timer|new|New app in Software
 app=Wish List|new|New app in Software
