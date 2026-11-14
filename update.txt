@@ -1,10 +1,9 @@
 ZIMUPDATE 1
-build=65
+build=66
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - nicer Z, zoom-out into Restart / Shut down, smoother start screens
-note=The Z now sits on a glowing glass tile that gently pulses
-note=Restart and Shut down zoom the screen out into the card, then the card fades in
-note=The progress bar has a gloss and a moving shimmer
+title=ZimOS 2.0.28 WELCOME - lock screen = your wallpaper, unlock animation
+note=The lock screen and sign-in screens now show your real wallpaper, so lock screen and desktop match
+note=Signing in plays a zoom-and-fade animation from the lock screen into the system
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
