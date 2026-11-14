@@ -1,11 +1,11 @@
 ZIMUPDATE 1
-build=63
+build=64
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - smaller start box, ZimOS Control Welcome + Terminal tabs, Terminal tab groups
-note=The start box is smaller and cleaner, and the F12 / Enter hints sit at the very bottom of the screen
-note=Settings is back to its old look
-note=ZimOS Control has two new tabs: Welcome (show at start, blur, dim) and Terminal (new / admin Terminal, start-up, tab group help)
-note=Terminal tab groups: click the dot on a tab to pick a colour, or type group red, groups, groupnew blue, closegroup red
+title=ZimOS 2.0.28 WELCOME - shuffle picks on Welcome, blurred pop-ups, Restart now? question, dock move fix
+note=Wallpapers ticked for shuffle are picked automatically on the Welcome "what wallpaper?" screen (Random respects them too)
+note=Admin password, shut down / restart and update pop-ups now show the blurred wallpaper behind them
+note=After an update ZimOS asks: Do you want to restart now? Yes / No
+note=Fixed moving pinned apps in the dock and scrolling in ZimOS Control
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
