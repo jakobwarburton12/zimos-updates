@@ -1,7 +1,7 @@
 ZIMUPDATE 1
-build=61
+build=62
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - Welcome screen on every start, all wallpapers in a gallery, Dim, glass dock
+title=ZimOS 2.0.28 WELCOME - big glass start screen, whole Settings revamped
 note=Nothing opens by itself on start any more: you get a Welcome screen with your wallpaper blurred behind a glass card
 note=Pick a wallpaper in the middle with Previous / Next, Random, Blur (Off, Light, Soft, Strong) and Dim (Off, 15%, 30%, 45%), then Continue
 note=On the ZimOS disc the Welcome screen also has Install ZimOS / Update ZimOS buttons
@@ -9,6 +9,8 @@ note=Settings > Wallpaper shows ALL wallpapers: big preview, Previous / Next / R
 note=The start screen, Restart and Shut down now all show the blurred wallpaper with a glass card, the Z, a spinner and a progress bar
 note=The dock and the rounded taskbar are blurred glass now
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
+note=Start screen is now a big glass card over your blurred wallpaper and fits any screen size
+note=Settings has a new look: glowing banner, framed pages, glossy cards, buttons, switches and tabs
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
