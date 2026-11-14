@@ -1,11 +1,10 @@
 ZIMUPDATE 1
-build=64
+build=65
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - shuffle picks on Welcome, blurred pop-ups, Restart now? question, dock move fix
-note=Wallpapers ticked for shuffle are picked automatically on the Welcome "what wallpaper?" screen (Random respects them too)
-note=Admin password, shut down / restart and update pop-ups now show the blurred wallpaper behind them
-note=After an update ZimOS asks: Do you want to restart now? Yes / No
-note=Fixed moving pinned apps in the dock and scrolling in ZimOS Control
+title=ZimOS 2.0.28 WELCOME - nicer Z, zoom-out into Restart / Shut down, smoother start screens
+note=The Z now sits on a glowing glass tile that gently pulses
+note=Restart and Shut down zoom the screen out into the card, then the card fades in
+note=The progress bar has a gloss and a moving shimmer
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
