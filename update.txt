@@ -1,11 +1,12 @@
 ZIMUPDATE 1
-build=57
+build=58
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - new app: Reading List
+title=ZimOS 2.0.27 ABOUT - Browser no longer freezes, Welcome screen, wallpaper prompt
+note=Browser: loading a page no longer freezes ZimOS
+note=The start screen now says Welcome on every boot
+note=First sign-in on an account opens Settings > Wallpaper so you can pick one
 note=New app in Software: Reading List
-note=Update checks no longer freeze ZimOS, and ZimOS checks for updates after it starts
-note=New Browser look and a bigger About window
-app=Reading List|new|New app in Software
+app=ZimBrowser|2.0.27 ABOUT|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
