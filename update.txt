@@ -1,14 +1,11 @@
 ZIMUPDATE 1
-build=56
+build=57
 version=2.0.27 ABOUT
-title=ZimOS 2.0.27 ABOUT - no more freezing on updates, automatic update check, new Browser
-note=Checking for updates and downloading them no longer freezes ZimOS
-note=ZimOS checks for updates after it starts (and every 30 minutes) and shows a notification
-note=The About app now grows so everything fits
-note=New Browser look: tabs with badges, round buttons, address bar with a lock, loading bar, new start page
-app=ZimBrowser|2.0.27 ABOUT|New look and start page
-app=ZimOS Control|2.0.27 ABOUT|Scrolling and drawing fixes
-app=About|2.0.27 ABOUT|Window fits all rows
+title=ZimOS 2.0.27 ABOUT - new app: Reading List
+note=New app in Software: Reading List
+note=Update checks no longer freeze ZimOS, and ZimOS checks for updates after it starts
+note=New Browser look and a bigger About window
+app=Reading List|new|New app in Software
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
