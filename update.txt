@@ -1,9 +1,9 @@
 ZIMUPDATE 1
-build=66
+build=67
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - lock screen = your wallpaper, unlock animation
-note=The lock screen and sign-in screens now show your real wallpaper, so lock screen and desktop match
-note=Signing in plays a zoom-and-fade animation from the lock screen into the system
+title=ZimOS 2.0.28 WELCOME - calmer Z, animations on every restart / shut down / sign-in
+note=The Z is back to the plain white one (less bright)
+note=Restart, Shut down and sign-in always animate, with a fade when the glass card cannot be shown
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
