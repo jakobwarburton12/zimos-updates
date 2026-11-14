@@ -1,9 +1,9 @@
 ZIMUPDATE 1
-build=67
+build=68
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - calmer Z, animations on every restart / shut down / sign-in
-note=The Z is back to the plain white one (less bright)
-note=Restart, Shut down and sign-in always animate, with a fade when the glass card cannot be shown
+title=ZimOS 2.0.28 WELCOME - Welcome screen animations, shuffle starts when you press Continue
+note=Opening and closing the Welcome screen now animates
+note=With shuffle on, the wallpaper you pick stays for the full shuffle time, counted from when you press Continue
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
