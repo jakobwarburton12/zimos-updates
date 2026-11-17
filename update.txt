@@ -1,13 +1,11 @@
 ZIMUPDATE 1
-build=69
+build=70
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - any dock size, Desktops over Apps on side docks, boot Welcome, lock-screen animations, on-screen keyboard and accessibility
-note=The dock can be any size (ZimOS Control > Dock) and can grow or shrink with the apps you have open
-note=On a left or right dock the Apps button sits under the Desktops button
-note=The start-up screen now says Welcome while ZimOS loads
-note=The lock and sign-in screens fade and zoom between every step
-note=New Access tab: on-screen keyboard (also on the lock screen), high contrast and invert colours
-note=New registry keys and new system files (welcome.ne, keyboard.ne, access.ne, anim.ne, dock.cfg, welcome.cfg, access.cfg) that really switch features on and off
+title=ZimOS 2.0.28 WELCOME - accessibility everywhere: setup, lock screen, quick settings and Settings; large pointer, magnifier, grayscale, reduce motion
+note=Accessibility button in setup and on the lock screen (bottom left, away from Shut down)
+note=New: large pointer (Large / Huge), magnifier (2x / 3x / 4x), grayscale and reduce motion
+note=Accessibility is in Settings and has a Show all button in Quick settings
+note=Every accessibility option is saved and comes back after a restart
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
