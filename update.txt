@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=72
+build=73
 version=2.0.28 WELCOME
 title=ZimOS 2.0.28 WELCOME - black arrow pointer, update icon with Zim AI summary, update check at sign-in and in setup, real blur
 zimai=Hi, Zim AI here! This update gives ZimOS a rounded black arrow pointer that shrinks when you click, and the side panel now stretches out when it opens.
