@@ -1,14 +1,11 @@
 ZIMUPDATE 1
-build=73
+build=74
 version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - black arrow pointer, update icon with Zim AI summary, update check at sign-in and in setup, real blur
-zimai=Hi, Zim AI here! This update gives ZimOS a rounded black arrow pointer that shrinks when you click, and the side panel now stretches out when it opens.
-zimai=ZimOS now checks for updates the moment you sign in, and setup updates to the latest by itself. The blurred accessibility window really blurs now.
-note=New black arrow pointer that shrinks when you click. Click ripples are gone
-note=Update icon in the top bar with a Zim AI summary and an Update now button
-note=Update check when you sign in, with automatic retries. Setup updates to the latest
-note=Zim AI panel stretches out from the side. The AI is now called Zim AI
-note=The accessibility window on the lock screen and in setup always blurs
+title=ZimOS 2.0.28 WELCOME - update icon fix, 6 new wallpapers
+zimai=Hi, Zim AI here! The update icon now hides with the top bar and sits further left, clear of your profile.
+zimai=This update also has the 6 new wallpapers: Sunset Bay, Rainforest, Silver, Autumn, Ocean and Violet.
+note=Update icon only shows while the top bar is shown, and moved left of your profile
+note=6 new wallpapers (Settings > Wallpaper)
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
