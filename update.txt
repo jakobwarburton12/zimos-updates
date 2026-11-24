@@ -1,11 +1,12 @@
 ZIMUPDATE 1
-build=76
-version=2.0.29 WELCOME
-title=ZimOS 2.0.29 WELCOME - the ZimOS Store
-zimai=Hi, Zim AI here! There is a new ZimOS Store with search, categories and an app list that never stops at 5.
-zimai=Apps you publish from the Publisher show up in the store for everyone. Open it from the dock or type store in Terminal.
-note=New ZimOS Store: search, categories, Recommended for you, Install / Open / Remove
-note=Store apps are kept in a library with no limit; the 5 slots just swap idle ones in and out
+build=77
+version=2.0.30 WELCOME
+title=ZimOS 2.0.30 WELCOME - Store in Apps, Publish button
+zimai=Hi, Zim AI here! The ZimOS Store now has its own file in the Apps folder.
+zimai=Code Studio has a Publish button that prepares your app for the store.
+note=ZimOS Store.zap in the Apps folder
+note=Code Studio: Publish button (Save only keeps it on this device)
+note=Update icon moved further left
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
