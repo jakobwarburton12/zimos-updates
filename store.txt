@@ -1,0 +1,3 @@
+ZIMSTORE 1
+app=zim-clicker|Zim Clicker|Games|Jakob|1.0|1|orange|Tap the big button as fast as you can
+app=zim-notes|Quick Tally|Tools|Jakob|1.0|0|teal|Count things with plus, minus and reset
