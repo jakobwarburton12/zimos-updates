@@ -1,15 +1,17 @@
 ZIMUPDATE 1
-build=79
-version=2.0.31 WELCOME
-title=ZimOS 2.0.31 WELCOME - Publish to the Store, checked by Defender
-zimai=Hi, Zim AI here! Press Publish in Create and ZimOS Defender checks your app, then it goes to the Store for everyone.
-zimai=Apps that restart or shut down the PC, open lots of windows or hold a virus signature are blocked.
-note=Create: Publish sends your app to the Store after Defender checks it
-note=Store shows community apps too
+build=80
+version=2.0.32 WELCOME
+title=ZimOS 2.0.32 WELCOME - Publish your apps to the Store
+zimai=Hi, Zim AI here! You can now publish your own apps. Press Publish in Create and the Store gets them.
+zimai=ZimOS Defender checks every app first, so unsafe ones never reach other people.
+zimai=The Store also has search, categories and a Recommended for you row.
+note=Create: the Publish button sends your app to the Store after ZimOS Defender checks it
+note=Store: community apps show up for everyone, and the Store is in the Apps folder
+note=The update icon sits further left, clear of your name
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
 kernel32=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2-32bit.kernel
-storeurl=https://jrqijywlvqnefrawzhyl.supabase.co/rest/v1
-storekey=sb_publishable_Gjek64Z0Ns_r4mr_nswASw_6cxonqDp
+storeurl=https://jrqijywlvqnefrawzhyl.supabase.co
+storekey=sb_publishable_hvVZEM_Qvofw8PPBMLgerw_BOWd4MFU
