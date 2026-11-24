@@ -1,11 +1,11 @@
 ZIMUPDATE 1
 build=75
-version=2.0.28 WELCOME
-title=ZimOS 2.0.28 WELCOME - update icon fix, 6 new wallpapers
-zimai=Hi, Zim AI here! The update icon now hides with the top bar and sits further left, clear of your profile.
-zimai=This update also has the 6 new wallpapers: Sunset Bay, Rainforest, Silver, Autumn, Ocean and Violet.
-note=Update icon only shows while the top bar is shown, and moved left of your profile
-note=6 new wallpapers (Settings > Wallpaper)
+version=2.0.29 WELCOME
+title=ZimOS 2.0.29 WELCOME - the ZimOS Store
+zimai=Hi, Zim AI here! There is a new ZimOS Store with search, categories and an app list that never stops at 5.
+zimai=Apps you publish from the Publisher show up in the store for everyone. Open it from the dock or type store in Terminal.
+note=New ZimOS Store: search, categories, Recommended for you, Install / Open / Remove
+note=Store apps are kept in a library with no limit; the 5 slots just swap idle ones in and out
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
