@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=75
+build=76
 version=2.0.29 WELCOME
 title=ZimOS 2.0.29 WELCOME - the ZimOS Store
 zimai=Hi, Zim AI here! There is a new ZimOS Store with search, categories and an app list that never stops at 5.
