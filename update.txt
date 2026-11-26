@@ -1,10 +1,12 @@
 ZIMUPDATE 1
-build=82
-version=2.2.0 DEVELOPER
-title=ZimOS 2.2.0 DEVELOPER - ZimOS Developer app, Store updates, title page
-zimai=Hi, Zim AI here! New app: ZimOS Developer. Publish your apps and pick the terminal name players will use.
+build=83
+version=2.2.1 SYNC
+title=ZimOS 2.2.1 SYNC - sign in online in setup, apps follow you
+zimai=Hi, Zim AI here! Sign in to your online account in setup and your apps and look follow you to a new device. Also new: ZimOS Developer. Publish your apps and pick the terminal name players will use.
 zimai=Players install with zi get-s name and update with zi get-u name. Big apps like games go on the Store title page.
 zimai=Coming soon apps and big updates have a Remind me button that puts them in your Calendar.
+note=Setup: Sign in online (name + password) brings your apps and theme to a new device
+note=ZimOS Developer: Sync apps saves your apps online, Get my apps brings them back
 note=ZimOS Developer: publish new apps, send updates, announce big updates
 note=Terminal: zi get-s <name> installs from the Store, zi get-u <name> updates it (not a system update)
 note=Store: title page for big apps, Update button, Coming soon + Remind me (Calendar)
