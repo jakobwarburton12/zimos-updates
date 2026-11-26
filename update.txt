@@ -1,15 +1,14 @@
 ZIMUPDATE 1
-build=81
-version=2.1.0 BIG
-title=ZimOS 2.1.0 BIG - Accounts, Viewer, pictures and screenshots
-zimai=Hi, Zim AI here! Big update: accounts with a password are saved online, so you can publish apps as yourself.
-zimai=The new Viewer app opens text, pictures, paintings, music and video info, and lets you change system files.
-zimai=Press Print Screen to take a screenshot. It goes into the Pictures folder.
-note=Accounts: your About text shows next to your apps in the Store
-note=Apps get a description and an About text (description and about lines in Create)
-note=Files: PNG, JPEG, BMP, MP3 and MP4 files, and files bigger than 16 KB
-note=Viewer: read and edit text, pictures, paintings and system files
-note=Screenshots: Print Screen, Alt+Print Screen, or the screenshot command
+build=82
+version=2.2.0 DEVELOPER
+title=ZimOS 2.2.0 DEVELOPER - ZimOS Developer app, Store updates, title page
+zimai=Hi, Zim AI here! New app: ZimOS Developer. Publish your apps and pick the terminal name players will use.
+zimai=Players install with zi get-s name and update with zi get-u name. Big apps like games go on the Store title page.
+zimai=Coming soon apps and big updates have a Remind me button that puts them in your Calendar.
+note=ZimOS Developer: publish new apps, send updates, announce big updates
+note=Terminal: zi get-s <name> installs from the Store, zi get-u <name> updates it (not a system update)
+note=Store: title page for big apps, Update button, Coming soon + Remind me (Calendar)
+note=Apps you published can get new versions without a system update
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
