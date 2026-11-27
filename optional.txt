@@ -1,0 +1,10 @@
+ZIMUPDATE 1
+build=89
+version=2.3.1 DOCK
+title=ZimOS 2.3.1 - the dock style switches really change the dock
+note=Dock style (Normal / Glass / Solid), running dots and hover highlight now change the real dock
+note=ZimOS Control > Dock: new switches Running dots, Hover highlight, Zoom on hover, Dock shadow
+url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos-optional/ZimOS-2.iso
+url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos-optional/ZimOS-2-32bit.iso
+kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos-optional/ZimOS-2.kernel
+kernel32=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos-optional/ZimOS-2-32bit.kernel
