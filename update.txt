@@ -1,16 +1,14 @@
 ZIMUPDATE 1
-build=83
-version=2.2.1 SYNC
-title=ZimOS 2.2.1 SYNC - sign in online in setup, apps follow you
-zimai=Hi, Zim AI here! Sign in to your online account in setup and your apps and look follow you to a new device. Also new: ZimOS Developer. Publish your apps and pick the terminal name players will use.
-zimai=Players install with zi get-s name and update with zi get-u name. Big apps like games go on the Store title page.
-zimai=Coming soon apps and big updates have a Remind me button that puts them in your Calendar.
-note=Setup: Sign in online (name + password) brings your apps and theme to a new device
-note=ZimOS Developer: Sync apps saves your apps online, Get my apps brings them back
-note=ZimOS Developer: publish new apps, send updates, announce big updates
-note=Terminal: zi get-s <name> installs from the Store, zi get-u <name> updates it (not a system update)
-note=Store: title page for big apps, Update button, Coming soon + Remind me (Calendar)
-note=Apps you published can get new versions without a system update
+build=82
+version=2.2.0 DEV
+title=ZimOS 2.2.0 - ZimOS Developer, app updates and the zi command
+zimai=Hi, Zim AI here! ZimOS Developer lets you update your apps and put big ones on the Store title page.
+zimai=Install any Store app from the terminal with zi get-s name. Update it with zi get-u name.
+note=New app: ZimOS Developer - update your apps, title page, coming soon
+note=Store: Update button when an app has a new version
+note=Terminal: zi get-s name installs an app, zi get-u name updates it
+note=Big apps can go on the Store title page and be announced on your calendar
+note=Publishing again with the same title updates your app
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
