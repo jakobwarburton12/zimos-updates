@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=82
+build=84
 version=2.2.0 DEV
 title=ZimOS 2.2.0 - ZimOS Developer, app updates and the zi command
 zimai=Hi, Zim AI here! ZimOS Developer lets you update your apps and put big ones on the Store title page.
