@@ -1,14 +1,13 @@
 ZIMUPDATE 1
-build=84
-version=2.2.0 DEV
-title=ZimOS 2.2.0 - ZimOS Developer, app updates and the zi command
-zimai=Hi, Zim AI here! ZimOS Developer lets you update your apps and put big ones on the Store title page.
-zimai=Install any Store app from the terminal with zi get-s name. Update it with zi get-u name.
-note=New app: ZimOS Developer - update your apps, title page, coming soon
-note=Store: Update button when an app has a new version
-note=Terminal: zi get-s name installs an app, zi get-u name updates it
-note=Big apps can go on the Store title page and be announced on your calendar
-note=Publishing again with the same title updates your app
+build=86
+version=2.2.2 ACCOUNTS
+title=ZimOS 2.2.2 - online accounts, devices and what to transfer
+zimai=Hi, Zim AI here! Your account can now go online properly: see which devices use it and pick what to bring with you.
+zimai=In Settings > Accounts press Online & devices. Tick Apps, Files, Personalization or System, then Send or Get.
+note=New: accounts that are not online yet are asked once, nothing is saved online without a yes
+note=Accounts > Online & devices: how many devices signed in, when, and Remove
+note=Tick boxes for Apps, Files, Personalization, System and All when you send or get your things
+note=Setup: Sign in online is a new flow - username, password, Next, then pick what to transfer
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
