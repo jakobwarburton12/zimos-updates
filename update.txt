@@ -1,11 +1,9 @@
 ZIMUPDATE 1
-build=88
-version=2.3.0 CHANNELS
-title=ZimOS 2.3.0 - optional and dev updates, Zim AI removed
-note=Settings > Optional & Dev: download optional updates with a button
-note=Dev updates: sign up with an online account to test early builds
-note=Only public updates show the update icon in the corner
-note=Zim AI is removed
+build=89
+version=2.3.1 DOCK
+title=ZimOS 2.3.1 - the dock style switches really change the dock
+note=Dock style (Normal / Glass / Solid), running dots and hover highlight now change the real dock
+note=ZimOS Control > Dock: new switches Running dots, Hover highlight, Zoom on hover, Dock shadow
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
