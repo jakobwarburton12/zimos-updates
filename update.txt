@@ -1,14 +1,11 @@
 ZIMUPDATE 1
-build=87
-version=2.2.3 TIDY
-title=ZimOS 2.2.3 - every app in the Apps menu, a tidier update icon and a simpler setup restart
-zimai=Hi, Zim AI here! The Apps menu now lists all your normal apps, and the update icon sits right next to your name.
-zimai=In setup, a Restart button in the corner finishes the update. zi get-s and zi get-u also work in the console.
-note=Apps menu: every normal app is there (system apps like ZimOS Developer and Store stay in the Apps folder)
-note=Update icon: now on the right of your name and it moves with the length of the name
-note=Setup: no question after an update, press Restart in the corner instead
-note=Console: zi get-s name and zi get-u name work
-app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
+build=88
+version=2.3.0 CHANNELS
+title=ZimOS 2.3.0 - optional and dev updates, Zim AI removed
+note=Settings > Optional & Dev: download optional updates with a button
+note=Dev updates: sign up with an online account to test early builds
+note=Only public updates show the update icon in the corner
+note=Zim AI is removed
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
