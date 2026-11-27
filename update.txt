@@ -1,13 +1,13 @@
 ZIMUPDATE 1
-build=86
-version=2.2.2 ACCOUNTS
-title=ZimOS 2.2.2 - online accounts, devices and what to transfer
-zimai=Hi, Zim AI here! Your account can now go online properly: see which devices use it and pick what to bring with you.
-zimai=In Settings > Accounts press Online & devices. Tick Apps, Files, Personalization or System, then Send or Get.
-note=New: accounts that are not online yet are asked once, nothing is saved online without a yes
-note=Accounts > Online & devices: how many devices signed in, when, and Remove
-note=Tick boxes for Apps, Files, Personalization, System and All when you send or get your things
-note=Setup: Sign in online is a new flow - username, password, Next, then pick what to transfer
+build=87
+version=2.2.3 TIDY
+title=ZimOS 2.2.3 - every app in the Apps menu, a tidier update icon and a simpler setup restart
+zimai=Hi, Zim AI here! The Apps menu now lists all your normal apps, and the update icon sits right next to your name.
+zimai=In setup, a Restart button in the corner finishes the update. zi get-s and zi get-u also work in the console.
+note=Apps menu: every normal app is there (system apps like ZimOS Developer and Store stay in the Apps folder)
+note=Update icon: now on the right of your name and it moves with the length of the name
+note=Setup: no question after an update, press Restart in the corner instead
+note=Console: zi get-s name and zi get-u name work
 app=ZimBrowser|2.0.28 WELCOME|Loads pages in the background
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
