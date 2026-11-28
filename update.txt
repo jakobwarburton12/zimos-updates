@@ -1,9 +1,11 @@
 ZIMUPDATE 1
-build=89
-version=2.3.1 DOCK
-title=ZimOS 2.3.1 - the dock style switches really change the dock
-note=Dock style (Normal / Glass / Solid), running dots and hover highlight now change the real dock
-note=ZimOS Control > Dock: new switches Running dots, Hover highlight, Zoom on hover, Dock shadow
+build=90
+version=2.3.2 TIDY
+title=ZimOS 2.3.2 - Apps menu order is saved, no more 5 app limit
+note=The Apps menu order, folders and pages of ALL apps are saved and come back after a restart
+note=Apps menu: drop an app on the arrows or dots to move it to another page, + makes a new page even if the first one is not full
+note=You can make as many apps as you like (older ones wait in Create > My apps)
+note=Reduce motion: panels no longer flash a blur before they update
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
