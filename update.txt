@@ -1,5 +1,5 @@
 ZIMUPDATE 1
-build=92
+build=93
 version=2.3.4 SHEET
 title=ZimOS 2.3.4 - Resize every app, the big top bar, screenshots
 note=Every app window can be resized now: drag an edge or a corner
