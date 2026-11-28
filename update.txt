@@ -1,11 +1,11 @@
 ZIMUPDATE 1
-build=90
-version=2.3.2 TIDY
-title=ZimOS 2.3.2 - Apps menu order is saved, no more 5 app limit
-note=The Apps menu order, folders and pages of ALL apps are saved and come back after a restart
-note=Apps menu: drop an app on the arrows or dots to move it to another page, + makes a new page even if the first one is not full
-note=You can make as many apps as you like (older ones wait in Create > My apps)
-note=Reduce motion: panels no longer flash a blur before they update
+build=92
+version=2.3.4 SHEET
+title=ZimOS 2.3.4 - Resize every app, the big top bar, screenshots
+note=Every app window can be resized now: drag an edge or a corner
+note=Top bar: click the arrow by the clock for a big sheet with the calendar and alerts
+note=All notifications show in the top bar, and the sheet shows the app you are using
+note=Screenshot: press PrtSc or use Quick settings to pick an app, an area or the screen
 url64=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2.iso
 url32=https://github.com/jakobwarburton12/zimos-updates/raw/isos/ZimOS-2-32bit.iso
 kernel64=https://raw.githubusercontent.com/jakobwarburton12/zimos-updates/isos/ZimOS-2.kernel
